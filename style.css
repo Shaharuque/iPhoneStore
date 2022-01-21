@@ -23,7 +23,7 @@ body{
     height: 100vh;
 } */
 .sectionBackground{
-    background-image: url("../images/background.png");
+    background-image: url("./images/background.png");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
