@@ -1,0 +1,17 @@
+->class="container-fluid: takes full width of the container
+->class="container" use korley left-right a kichota free space pawa jay.
+->e=end(left side) s=start(right)
+->display heading—a larger, slightly more opinionated heading style(typography)
+->fs:font size, fw: font weight
+->py-4 means y-axis or vertically padding-4
+->class="text-center"(text center a ashbey)
+->svg icons text ar moto kaj korey and font awesome ar icon o text ar moto kaj korey
+->fw-bold(text will be bold)
+->background-repeat: no-repeat;image choto holey pic repeat hoy onk somoy and seita prevent korar jnno
+->background-size: cover; jeno container ar full width img ta nitey parey
+->background-color: rgba(0, 0, 0, 0.507);
+  background-blend-mode: overlay;
+background img k mone hoy kono kichor nichey asey aamn effect dey
+->class="text-center" inline element center a niye ashtey parey
+##image a class="img-fluid" it just fit the image into the width it got (jototuku width pabey tar purota tey image fit korabey)
+	
